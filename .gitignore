@@ -1,0 +1,8 @@
+*.xml
+*.xz
+*.xml.gz
+!epg_xtream.xml.gz
+channels.json
+unique_tvgids.json
+tv_channels_with_epg.m3u
+unmatched.txt
