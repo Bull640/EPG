@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 from xml.sax.saxutils import escape
 
 EPGSHARE_BASE = "https://epgshare01.online/epgshare01/epg_ripper_{}.xml.gz"
-EPGSHARE_CODES = ["UK1", "IE1", "US2", "CA2", "AU1", "NZ1", "ZA1"]
+EPGSHARE_CODES = ["UK1", "IE1", "US2", "CA2", "AU1", "NZ1", "ZA1", "ALJAZEERA1"]
 RYTEC_MIRRORS = [
     "http://www.xmltvepg.nl/{}.xz",
     "http://epg.vuplus-community.net/{}.xz",

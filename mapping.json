@@ -237,10 +237,10 @@
   "tvg_id": "Alibi.uk",
   "name": "UK| ALIBI FHD",
   "group": "UK| GENERAL",
-  "match_file": null,
-  "match_epg_id": null,
-  "match_score": 0.0,
-  "match_name": null
+  "match_file": "rytecUK_SkyLive",
+  "match_epg_id": "Alibi.uk",
+  "match_score": 1.0,
+  "match_name": "U Alibi"
  },
  {
   "tvg_id": "Thats.TV.uk",
@@ -921,10 +921,10 @@
   "tvg_id": "Alibi.uk",
   "name": "UK| ALIBI HEVC HD",
   "group": "UK| GENERAL HEVC",
-  "match_file": null,
-  "match_epg_id": null,
-  "match_score": 0.0,
-  "match_name": null
+  "match_file": "rytecUK_SkyLive",
+  "match_epg_id": "Alibi.uk",
+  "match_score": 1.0,
+  "match_name": "U Alibi"
  },
  {
   "tvg_id": "E4.uk",
@@ -1866,10 +1866,10 @@
   "tvg_id": "AlJazeeraEnglish.uk",
   "name": "UK| AL JAZEERA EN HD",
   "group": "UK| NEWS",
-  "match_file": null,
-  "match_epg_id": null,
-  "match_score": 0.0,
-  "match_name": null
+  "match_file": "ALJAZEERA1",
+  "match_epg_id": "AlJazeera.English.net",
+  "match_score": 1.0,
+  "match_name": "AlJazeera English"
  },
  {
   "tvg_id": "AriseNews.uk",
@@ -4728,19 +4728,19 @@
   "tvg_id": "uk.Alibi HD",
   "name": "UK-NOWTV| ALIBI HD",
   "group": "UK| NOW TV",
-  "match_file": null,
-  "match_epg_id": null,
-  "match_score": 0.0,
-  "match_name": null
+  "match_file": "rytecUK_SkyLive",
+  "match_epg_id": "Alibi.uk",
+  "match_score": 1.0,
+  "match_name": "U Alibi"
  },
  {
   "tvg_id": "uk.Alibi HD",
   "name": "UK-NOWTV| ALIBI SD",
   "group": "UK| NOW TV",
-  "match_file": null,
-  "match_epg_id": null,
-  "match_score": 0.0,
-  "match_name": null
+  "match_file": "rytecUK_SkyLive",
+  "match_epg_id": "Alibi.uk",
+  "match_score": 1.0,
+  "match_name": "U Alibi"
  },
  {
   "tvg_id": "uk.Boomerang HD",
@@ -7428,10 +7428,10 @@
   "tvg_id": "AlJazeeraEnglish.uk",
   "name": "US| AL JAZEERA ENGLISH",
   "group": "US| NEWS NETWORK",
-  "match_file": null,
-  "match_epg_id": null,
-  "match_score": 0.0,
-  "match_name": null
+  "match_file": "ALJAZEERA1",
+  "match_epg_id": "AlJazeera.English.net",
+  "match_score": 1.0,
+  "match_name": "AlJazeera English"
  },
  {
   "tvg_id": "BNCGO.us",
@@ -12279,28 +12279,28 @@
   "tvg_id": "FoxSportsNews.au",
   "name": "AU| KAYO - FOX SPORTS NEWS",
   "group": "AU| AUSTRALIA",
-  "match_file": null,
-  "match_epg_id": null,
-  "match_score": 0.0,
-  "match_name": null
+  "match_file": "AU1",
+  "match_epg_id": "FoxSportsNews.au",
+  "match_score": 1.0,
+  "match_name": "Fox Sports News"
  },
  {
   "tvg_id": "FoxSports5.au",
   "name": "AU| KAYO - FOX SPORTS 505",
   "group": "AU| AUSTRALIA",
-  "match_file": null,
-  "match_epg_id": null,
-  "match_score": 0.0,
-  "match_name": null
+  "match_file": "AU1",
+  "match_epg_id": "FoxSports505.au",
+  "match_score": 1.0,
+  "match_name": "Fox Sports 505"
  },
  {
   "tvg_id": "FoxSports6.au",
   "name": "AU| KAYO - FOX SPORTS 506",
   "group": "AU| AUSTRALIA",
-  "match_file": null,
-  "match_epg_id": null,
-  "match_score": 0.0,
-  "match_name": null
+  "match_file": "AU1",
+  "match_epg_id": "FoxSports506.au",
+  "match_score": 1.0,
+  "match_name": "Fox Sports 506"
  },
  {
   "tvg_id": "FOXCricket.au",
