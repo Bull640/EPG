@@ -1,9 +1,6 @@
 # Custom EPG for Trex playlist
 
-Auto-generated XMLTV guide for the live TV channels in this Xtream/Trex IPTV panel, merged from:
-
-- [epgshare01](https://epgshare01.online/epgshare01/) (UK/IE/US/CA/AU/NZ/ZA)
-- [Rytec](https://forums.openpli.org/) UK/Ireland Sky Sports & Movies feeds
+Auto-generated XMLTV guide for the live TV channels in this IPTV panel, merged from:
 
 `epg_xtream.xml.gz` is keyed by the **original `tvg-id` values** your Xtream panel already supplies, so it can be added as an extra EPG source in TiviMate without changing your playlist or channel source at all.
 
